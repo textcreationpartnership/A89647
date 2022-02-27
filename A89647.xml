@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle narrative of the barbarous assault and illegall arrest of Freder. Turvill, Esquire: by sixteen bailiffs, with the death of one of their followers. To a gentleman in the country from a friend of both newly arrived from beyond sea, that accidentally was an eye-witnesse of all passages.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89647</idno>
+            <idno type="STC">Wing N1</idno>
+            <idno type="STC">Thomason E1023_7</idno>
+            <idno type="STC">ESTC R26562</idno>
+            <idno type="EEBO-CITATION">99872131</idno>
+            <idno type="PROQUEST">99872131</idno>
+            <idno type="VID">168861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle narrative of the barbarous assault and illegall arrest of Freder. Turvill, Esquire: by sixteen bailiffs, with the death of one of their followers. To a gentleman in the country from a friend of both newly arrived from beyond sea, that accidentally was an eye-witnesse of all passages.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.</note>
+                  <note>Annotation on Thomason copy: "May 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turvill, Frederick --  Early works to 1800.</term>
+               <term>Criminal proceedure --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168861:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Epiſtle</hi> NARRATIVE OF THE Barbarous Aſſault and illegall <hi>ARREST of</hi> Freder. Turvill, <hi>Eſquire:</hi> By Sixteen Bailiffs, with the death of one of their Followers.</p>
+            <p>To a Gentleman in the Country from a Friend of both newly arrived from be<g ref="char:EOLhyphen"/>yond Sea, that accidentally was an eye-wit<g ref="char:EOLhyphen"/>neſſe of all Paſſages.</p>
+            <q>Quod genus hoc hominum? Quaeve hunc tam barbara morem Permittit Patria?
+<bibl>
+                  <hi>Virg. lib. 1. Aened.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168861:2"/>
+            <pb n="1" facs="tcp:168861:2"/>
+            <head>An Epiſtle Narrative of the Bar<g ref="char:EOLhyphen"/>barous Aſſault and Illegal Arrest of <hi>Frederick Tur<g ref="char:EOLhyphen"/>vill,</hi> Eſq by Sixteen Bailiffs, with the death of one of their followers.</head>
+            <opener>
+               <salute>Deare N.</salute>
+            </opener>
+            <p>AFter ſo long abſence from thee, and what I was willinglier to part with, in the unſtable ſtate I left it, my Country; thou mayeſt perhaps rather look for an account of my travails into Forreign Nations; ſtuff'd with ſome of <hi>Mandivels</hi> lyes, then a homely Narra<g ref="char:EOLhyphen"/>tive of any Domeſtick accident. But a ſad miſchance ro<g ref="char:EOLhyphen"/>lating to a dear friend of ours commands my Pen, and forces me to aſſure thee, I have not any where abroad a<g ref="char:EOLhyphen"/>mongſt people civilized by Law, or Religion, been an eye-witneſſe of an action more Barbarous, yet authoriſed and licenſed by a pretended legality, then what the ſecond day of my reſidence in <hi>London,</hi> preſented to my veiw. It made me, I confeſſe, ſadly phanſie, that where Gentlemen of Noble extraction were ſo much abuſed by baſe people, under the Cloak of law; all thoſe Regicides were not ex<g ref="char:EOLhyphen"/>tinct that pretended by law to cut off the head of all laws their King.</p>
+            <p>It was on the 17th. of this current, that from a <hi>Balcone</hi> of my lodging in <hi>Covent garden,</hi> I beheld the <hi>Plazzos</hi> com<g ref="char:EOLhyphen"/>paring them <hi>(ut parva magnis)</hi> to that of St <hi>Mark</hi> at <hi>Venice,</hi> or the <hi>Portici di Bologna,</hi> when at a diſtance, I took particu<g ref="char:EOLhyphen"/>lar notice of two Gentlemen walking together, whom by. the comelineſs of their deportment, and ſtudied negli<g ref="char:EOLhyphen"/>gence of a manly gate, I concluded, improved travailers
+<pb n="2" facs="tcp:168861:3"/>I was, I muſt need ſay, pleaſing my ſelf with this reflection, that as there is no Munkey more ridiculous in my eyes, then an Engliſh Monſier, who croſſed the Seas for faſhion more then deſigne, and made it his ſome moneths ſtudy to wag his head and heels, as lightly as his Feathers, or ſwear in an affected paſſion <hi>à Je reniege dieu!</hi> So our Nation may, in this regard, thank and excuſe its late miſ<g ref="char:EOLhyphen"/>fortunes, that the unconſtant changes of Government, and conſtant perſecution of the loyall party hath forced ſo many gallant ſpirits to quit their Native home, who by wiſe reflection on the Manners, Natures, Policies, and Go<g ref="char:EOLhyphen"/>vernments, of other States and Kingdomes, have impro<g ref="char:EOLhyphen"/>ved themſelves to ſuch a height of Wiſdome and Gallan<g ref="char:EOLhyphen"/>try, hat we need not yeeld to any Nation in <hi>Europe,</hi> as before in Military, ſo now in Politick and Civill affairs. Theſe were my thoughts relating to the two Gentlemen, who had but one Footman attending on them, when be<g ref="char:EOLhyphen"/>hold! on a ſuddain they were ſurrounded by a cluſter of rude but ſturd, fellows; with ſwords drawn, hangers and o<g ref="char:EOLhyphen"/>ther weapons, as if they intended a murder. One of them making at the foremoſt of the Gentlemen) whom I could not yet diſcern to be our dear and noble friend. Mr. <hi>Frede<g ref="char:EOLhyphen"/>rick Turvill</hi>) was by him ſeveral times bid to ſtand off upon his perill; but he forcing in, gave not our friend leave to draw his ſword, though he had his hand on it, who ha<g ref="char:EOLhyphen"/>ving a long leaguer Cloak thrown round his left ſhoulder, could not preſently draw; wherefore quitting his ſword, he whipt out a Dagger, preſented the point, not offering to ſtab, or thruſt at him, but rather retiring ſome paces backward towards the wall in the poſture of a Legall de<g ref="char:EOLhyphen"/>fence; but the Fellow (whoſe name was <hi>Gerard</hi>) preſſing ſtill on, and endeavouring to cloſe, ran himſelf upon the Dagger, which paſſed into his breaſt, and he forth<g ref="char:EOLhyphen"/>with fell to the ground Another of the Crew in the very inſtant caught hold of Mr. <hi>Turvills</hi> right hand, to avoid whoſe hold, he changed his Dagger to the left, and with it ſtruck him that held him: Now three more of the company made at the defendent with their hangers,
+<pb n="3" facs="tcp:168861:3"/>and after ſome blows cloſed with him, but could not wreſt from him the Priniard, with which, though held, he put off two paſſes made a his body which ran through the ſleeve of his ſhi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and doublet. <hi>Gerard</hi> in this <hi>inte<g ref="char:EOLhyphen"/>rim,</hi> ſtill alive to re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enge, aroſe again, and making at him, cryed out: Thou Rogue, God damn me, thou haſt kill'd me! but by a puſh was turn'd again upon his back. It was worthily obſervable, that our noble friend being as you know, but of a moderate ſize, and very neatly tim<g ref="char:EOLhyphen"/>bred, yet, as unconcern'd in danger, in the vehemency of his Paſſion, uniting all his ſpirits, could not be worſt<g ref="char:EOLhyphen"/>ed by all theſe burly, ſtrong and boyſtrous fellows; two of whom I could plainly diſcern, he threw with apparent eaſe to the ground, whileſt others hung upon his arms and ſhoulders. There it was to be ſeen, how much a clear and neat ſtrength born on by an active reſolution, and an undaunted courage, can prevail againſt the boy<g ref="char:EOLhyphen"/>ſtrous fury of a lubberly rout, whoſe ſouls are duller and heavier then their louty bodies, and would leave a doubt of their final Reſurrection, were there not a ſeve<g ref="char:EOLhyphen"/>rer Judge to condem them to hell, then they find here to condemn their bodies to a Gallows. My quill is too ſlow to accompany the active performances of our noble friend, who being now overpowr'd more by their weight then their motions and almoſt preſſed to the ground, overturn'd two of them in a dark cellar, and fell with them, 'tis true; but you may eaſily imagine the nobler element would be ſtill uppermoſt: there, I ſuppoſe he loſt his weapon, who would have caught at lightning, to dart in their faces, and himſelf in the dark, but not his courage. And here I muſt not omit to tell how bravely the other Gentleman behaved himſelf all this while, who with his Sword, kept the other twelve in play, being on<g ref="char:EOLhyphen"/>ly ſeconded by Mr. <hi>Turvills</hi> man, who unadviſedly not keeping cloſe to him, was diſarmed, which the gallant perſon perceiving, and not ſeeing his friend any more, re<g ref="char:EOLhyphen"/>tiring a ſtep or two, pluckt out a Piſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, at which the Bayliſſs drew back, and gave him opportunity to make
+<pb n="4" facs="tcp:168861:4"/>an honourable retreat. Thus was noble <hi>Turvill</hi> arreſted and carried over to the <hi>Roſe Tavern,</hi> before either I or any other Gentlemen knew him, much leſs came in to reſcue him, all this being done in leſs time then you can read it. He was there confined to a Chamber, all the Bayliſſs ſtanding about him with drawn ſwords, ſix of them be<g ref="char:EOLhyphen"/>ing wounded, wheere he ſaw <hi>Gerard</hi> ſprauling on the ground, lye Curſing and Swearing, and charging his fel<g ref="char:EOLhyphen"/>lows to impute his death to our Friend, till he ſpewed out his revengefull ſoul no doubt to hell, whether it was car<g ref="char:EOLhyphen"/>ried by a bloody Oath, and imprecation; He left theſe villaines heires of his revenge, for they proved ſo fatih<g ref="char:EOLhyphen"/>full executers to his damnable Will, that they ſtill thirſt after his blood, although it be certainly proved, they had no Warrant at that time againſt Mr. <hi>Turvill,</hi> and credibly reported, that they miſſing their aym in executing ano<g ref="char:EOLhyphen"/>ther Arreſt, reſolved amongſt themſelves to ſerve it on the firſt Gentleman they met, and by conſequence, gave oc<g ref="char:EOLhyphen"/>caſion to their followers death, who was no Bailiff himſelf; yet they added Robbery to their Roguery, and pickt Mr: <hi>Turvills</hi> pockets under pretence of ſearching for Piſtols. What horrid abuſe is this of the Law, that a neſt of rogues let flye where and at whom they will, ſhould attempt not onely an Arreſt without Warrant a robbery inſtead of an arreſt, but venture at the life of a Perſon of quality, whoſe life ought to be as dear to his Country, as it concerns the Nation, that all ſuch raſcalls ſhould be hanged. <hi>Quod ge<g ref="char:EOLhyphen"/>nus hoc hominum? aut quae tam barbara morem Permittit Patria?</hi> Tis grown now to that height of barbarouſnes, that nei<g ref="char:EOLhyphen"/>ther Streets, nor Houſes, nor Courts of Juſtice, ſcarce Churches themſelves are free from theſe Vermin, and but one day in the week exempt from their attempts: Were it not ſafer for moſt of our Gallants in Town, that have courage to enter at a breach in the face of an enemie and the mouth of a Cannon, to travaile amongſt Beares and Wolves, where their defence were juſtifiable and honour<g ref="char:EOLhyphen"/>able, then to walk our ſtreets (where every man ought to have publique freedome) under the ſight of theſe Monſters
+<pb n="5" facs="tcp:168861:4"/>that watch at every doore, and ſtart out of every hole, with forged right to warrant their miſchief? may they not at every turn cry out, <hi>Per inſidias iter eſt, formaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> jera<g ref="char:EOLhyphen"/>rum?</hi>
+            </p>
+            <p>After theſe legall Thieves had rob'd <hi>Mr. Turvill,</hi> not thinking themſelves defenſible in their baſeneſſe, nor daring to truſt their own cowardlineſs any more in the o<g ref="char:EOLhyphen"/>pen ſtreets amongſt Gentlemen and honeſt people, that had all their mouths full of <hi>Mr. Turvills</hi> defence, and praiſe of his civility, gallantry, valour, and worth. They call'd the Conſtable to their aſſiſtance, brought forth our friend, to conduct him to Juſtice <hi>Blake;</hi> multitudes they were, and I cannot deviſe how it came to paſs, that, we could not poſſibly get together above two or three Gentle<g ref="char:EOLhyphen"/>men in all that time to reſcue him, though all the people generally ſpoke high his praiſe. Two there were, whoſe gallantry ſhall alwayes be by me admired, for they per<g ref="char:EOLhyphen"/>formed againſt the multitude, as much as could be done by men, till in diſpute my friends man, made his eſcape, after whom they crying; ſtop the murderer! We ſuppo<g ref="char:EOLhyphen"/>ſing our Friend had been disingaged, made good and ſafe our own retreat. But ſoon after to our exceſſive grief, I un<g ref="char:EOLhyphen"/>derſtood, he was brought before Juſtice <hi>Blake,</hi> from whom I could no wayes expect any civility for a Gentleman, though his wife be a Gentlewoman of good extraction, and much civility. He is ſaid to be of principles deſtru<g ref="char:EOLhyphen"/>ctive to all Titles of Honour, and one who was more like to favour his equals, then give reſpect to his betters.</p>
+            <p>Deareſt <hi>N.</hi> O may thoſe happy and glorious dayes haſten upon us with golden wings, which we hope for by the means of this free enſuing Parliament, wherein a Crown may be reſtored to majeſty, Titles to Nobility, Ho<g ref="char:EOLhyphen"/>nour to Worth and Gallantry, Subjection, Quietneſs, re<g ref="char:EOLhyphen"/>ſpect and loyall Obedience be found in Subjects, and a
+<pb n="6" facs="tcp:168861:5"/>perfect Reformation of all Abuſes, Cheates, Trepans ta<g ref="char:EOLhyphen"/>ken from the Law, and inſolence from the under rout of People. Let us in the interim comfort our ſelves with theſe loyall hopes, and let me live no longer, if I live to ſee any one hair of noble <hi>Turvills</hi> head to periſh for this Gallant, Noble and Juſt Defence of his worthy Perſon.</p>
+            <closer>
+               <signed>
+                  <hi>Thine</hi> N.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
